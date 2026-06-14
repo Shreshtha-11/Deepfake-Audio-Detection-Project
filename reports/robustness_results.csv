@@ -1,0 +1,5 @@
+Channel Condition,Accuracy,EER
+Clean (Unmodified),77.00%,10.06%
+Simulated Reverberation,54.00%,33.90%
+Telephone Bandpass Filter (300-3400Hz),87.00%,15.02%
+8-bit PCM Compression,56.00%,40.10%
